@@ -1,0 +1,12 @@
+/*
+  Localizable.strings
+  Movie App Assessment
+
+ Created by Pankaj, Ashutosh, Isiri on 16/09/22.
+
+*/
+
+
+
+"appName" = "Movie App";
+"apilink" =  "https://api.themoviedb.org/3/movie/popular?api_key=2ba3e30a241df411933c3d27f92af32b";
